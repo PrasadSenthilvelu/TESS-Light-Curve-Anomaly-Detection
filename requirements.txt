@@ -1,0 +1,12 @@
+
+lightkurve
+astroquery
+astropy
+numpy
+scipy
+pandas
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+shap
